@@ -15,7 +15,7 @@
     "async": "^2.6.1",
     "debug": "^4.3.4",
     "formidable": "^3.5.1",
-    "pkgcloud": "https://github.com/smart-unit/pkgcloud.git",
+    "pkgcloud": "git+https://github.com/smart-unit/pkgcloud.git",
     "strong-globalize": "^6.0.6",
     "uuid": "^9.0.0"
   },
